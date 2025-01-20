@@ -10,8 +10,9 @@ The goal of these lessons is to build a foundational understanding of Shell Scri
 
 ## 📁 Structure
 Here's how this section is organized:
+
 0. [(Optional) Breaking down Linux and the Terminal](./0.%20Linux?%20The%20Terminal?.md)
-1. [Basics of Shell Scripting](1.%20Basics%20of%20Shell%20Scripting.md))
+1. [Basics of Shell Scripting](1.%20Basics%20of%20Shell%20Scripting.md)
 2. [Manipulating Files and Directories](./2.%20Manipulting%20Files%20and%20Directories.md)
 3. [Variables and User Input](./3.%20Variables%20and%20User%20Input.md)
 4. [Control Structures](./4.%20Constrol%20Structures.md)
