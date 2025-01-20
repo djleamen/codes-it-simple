@@ -11,13 +11,13 @@ The goal of these lessons is to build a foundational understanding of Shell Scri
 ## 📁 Structure
 Here's how this section is organized:
 
-0. [(Optional) Breaking down Linux and the Terminal](./0.%20Linux?%20The%20Terminal?.md)
-1. [Basics of Shell Scripting](1.%20Basics%20of%20Shell%20Scripting.md)
-2. [Manipulating Files and Directories](./2.%20Manipulting%20Files%20and%20Directories.md)
-3. [Variables and User Input](./3.%20Variables%20and%20User%20Input.md)
-4. [Control Structures](./4.%20Constrol%20Structures.md)
-5. [Functions and Error Handling](./5.%20Functions,%20Error%20Handling.md)
-6. [Advanced Topics/Going Forward](./6.%20Going%20Forward.md)
+0. [(Optional) Breaking down Linux and the Terminal](./0.-Breaking-Down-Linux-and-the-Terminal.md)
+1. [Basics of Shell Scripting](./1.-Basics-of-Shell-Scripting.md)
+2. [Manipulating Files and Directories](./2.-Manipulting-Files-and-Directories.md)
+3. [Variables and User Input](./3.-Variables-and-User-Input.md)
+4. [Control Structures](./4.-Constrol-Structures.md)
+5. [Functions and Error Handling](./5.-Functions-Error-Handling.md)
+6. [Advanced Topics/Going Forward](./6.-Going-Forward.md)
 
 ## 🚀 How to Use
 1. Start with **Breaking Down Linux and the Terminal** to make sure you have a solid background understanding going into this course.

@@ -10,13 +10,13 @@ This section is designed to help you master the fundamentals of SQL. Whether you
 - **Advanced SQL**: Dive into subqueries, window functions, and performance optimization.
 
 ## 📁 Structure
-1. [Introduction to SQL](./1.%20Introduction%20to%20SQL.md)
-2. [Basic Queries](./2.%20Basic%20Queries.md)
-3. [Working with Tables](./3.%20Working%20with%20Tables.md)
-4. [Joins and Relationships](./4.%20Joins%20and%20Relationships.md)
-5. [Functions and Aggregates](./5.%20Functions%20and%20Aggregates.md)
-6. [Indexes and Optimization](./6.%20Indexes%20and%20Optimization.md)
-7. [Advanced Topics](./7.%20Going%20Forward.md)
+1. [Introduction to SQL](./1.-Introduction-to-SQL.md)
+2. [Basic Queries](./2.-Basic-Queries.md)
+3. [Working with Tables](./3.-Working-with-Tables.md)
+4. [Joins and Relationships](./4.-Joins%20and-Relationships.md)
+5. [Functions and Aggregates](./5.-Functions-and-Aggregates.md)
+6. [Indexes and Optimization](./6.-Indexes-and-Optimization.md)
+7. [Advanced Topics](./7.-Going-Forward.md)
 
 ## 🚀 How to Use
 1. Start with the **Introduction** to set up a database environment.
