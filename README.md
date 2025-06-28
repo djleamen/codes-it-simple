@@ -1,7 +1,7 @@
 # 🌟 DJ Codes it Simple
 
 ![Stars](https://img.shields.io/github/stars/djleamen/Codes-it-Simple?style=social)
-![Views](https://komarev.com/ghpvc/?username=djleamen&label=Repo%20Views&color=blue)
+![Views](https://komarev.com/ghpvc/?username=djleamen&label=Views&color=blue)
 
 **Your beginner-friendly guide to mastering Shell Scripting, SQL, and beyond!**  
 
