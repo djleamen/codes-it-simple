@@ -1,5 +1,8 @@
 # 🌟 DJ Codes it Simple
 
+![Stars](https://img.shields.io/github/stars/djleamen/Codes-it-Simple?style=social)
+![Views](https://komarev.com/ghpvc/?username=djleamen&label=Repo%20Views&color=blue)
+
 **Your beginner-friendly guide to mastering Shell Scripting, SQL, and beyond!**  
 
 Welcome to **DJ Codes it Simple**, a resource designed to break down coding concepts into simple, digestible lessons. Whether you're just starting your coding journey or brushing up on the basics, this repository offers essential concepts, hands-on examples, and best practices to help you succeed.
